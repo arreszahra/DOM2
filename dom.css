@@ -1,0 +1,21 @@
+.container{
+    margin-left: 50%;
+    margin-top: 5px;
+}
+#color-box{
+    width: 80%;
+    height: 50%;
+    background-color: rgb(113, 113, 219);
+    margin-bottom: 5px;
+}
+#change-color-btn{
+    background-color: rgb(119, 45, 189);
+    font-weight: bold;
+    font-size: 18px;
+    
+    color: white;
+    margin-left: 10px;
+    text-align: center;
+    cursor: pointer;
+    
+}
